@@ -1,6 +1,6 @@
 # badger-cli
 
-`go get github.com/bah2830/badger-cli`
+`go install github.com/sedadas/badger-cli@latest`
 
 
 ```
